@@ -10,6 +10,11 @@ npm install
 npm run serve
 ```
 
+### Run the fake API (Json server)
+```
+npm run beckend
+```
+
 ### Compiles and minifies for production
 ```
 npm run build
